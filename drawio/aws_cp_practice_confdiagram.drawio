@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="6aYFHH_wOY10zsjjJ_Q0" name="Page-1">
-        <mxGraphModel dx="3793" dy="3560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+        <mxGraphModel dx="3117" dy="2384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="95" value="AWS Cloud" style="locked=1;" parent="0"/>
@@ -152,8 +152,8 @@
                         <mxPoint x="417" y="-1171.97" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="57" value="/statistic/*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#23445d;fillColor=#bac8d3;fontSize=18;" parent="28" vertex="1">
-                    <mxGeometry x="291" y="-1224" width="95" height="34" as="geometry"/>
+                <mxCell id="57" value="/static/*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#23445d;fillColor=#bac8d3;fontSize=18;" parent="28" vertex="1">
+                    <mxGeometry x="300" y="-1224" width="77" height="34" as="geometry"/>
                 </mxCell>
                 <mxCell id="58" value="Default(*)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#23445d;fillColor=#bac8d3;fontSize=18;" parent="28" vertex="1">
                     <mxGeometry x="292" y="-1048.5" width="94" height="34" as="geometry"/>
@@ -330,7 +330,7 @@
                 <mxCell id="114" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#23445d;fontSize=18;fillColor=#bac8d3;rotation=90;gradientColor=none;perimeterSpacing=0;opacity=50;" parent="28" vertex="1">
                     <mxGeometry x="467.75" y="-957.75" width="60" height="276.75" as="geometry"/>
                 </mxCell>
-                <mxCell id="115" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#23445d;fontSize=18;fillColor=#bac8d3;rotation=-90;gradientColor=none;perimeterSpacing=0;opacity=50;" parent="28" vertex="1">
+                <mxCell id="115" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#23445d;fontSize=18;fillColor=#bac8d3;rotation=90;gradientColor=none;perimeterSpacing=0;opacity=50;" parent="28" vertex="1">
                     <mxGeometry x="781.13" y="-881.62" width="60" height="124.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="116" value="ポートフォワーディング" style="whiteSpace=wrap;html=1;sketch=0;strokeColor=#d6b656;fontSize=18;fillColor=#fff2cc;opacity=50;" parent="28" vertex="1">
